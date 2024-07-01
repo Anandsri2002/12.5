@@ -1,0 +1,49 @@
+.gradient-background {
+    background: linear-gradient(300deg, #5557da, #a9727a, #99d092);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    
+    
+    
+    background-color: #f2f2f2;
+  
+  }
+
+.samsung-image{
+    height: 18rem ;
+    width: 18rem;
+    border-radius: 50%;
+    
+    max-width: 800px;
+ 
+    background-color: #f2f2f2;
+   
+}
+
+.robot-image{
+    display: flex;
+    align-items: s;
+    max-width: 800px;
+
+    background-color: #f2f2f2;
+   
+   
+}
+
+
+body{
+    background-color: antiquewhite(255, 91, 91);
+}
+
+h3{
+    color:mediumspringgreen;
+}
+
+li.done1{
+    color: rgb(202, 149, 64);
+}
+
+li.done5{
+    color: whitesmoke;
+    
+}
